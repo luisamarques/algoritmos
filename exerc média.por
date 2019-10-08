@@ -4,6 +4,7 @@ programa
 	funcao inicio()
 	{
 		inteiro n
+		caracter meuprimeirocommit
 		real a, s=0
 		escreva("Informe o nÃºmero de avaliaÃ§Ãµes: ")
 		leia(n)
@@ -19,10 +20,10 @@ programa
 }
 /* $$$ Portugol Studio $$$ 
  * 
- * Esta seÃ§Ã£o do arquivo guarda informaÃ§Ãµes do Portugol Studio.
- * VocÃª pode apagÃ¡-la se estiver utilizando outro editor.
+ * Esta seção do arquivo guarda informações do Portugol Studio.
+ * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 212; 
+ * @POSICAO-CURSOR = 73; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
