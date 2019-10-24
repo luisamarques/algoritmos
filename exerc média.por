@@ -6,22 +6,23 @@ programa
 		inteiro n
 		caracter meuprimeirocommit
 		real a, s=0
-		escreva("Informe o número de avaliações: ")
+		escreva("Informe o nÃºmero de avaliaÃ§Ãµes: ")
 		leia(n)
 		limpa()
 		para(inteiro i=1; i<=n;i++){
-			escreva("\nInforme a nota da avaliação ", i, ": ")
+			escreva("\nInforme a nota da avaliaÃ§Ã£o ", i, ": ")
 			leia(a)
 			limpa()
 			s = s + a
 		}
-		escreva("\nA média é: ", s/n)
+		escreva("\nA mÃ©dia Ã©: ", s/n)
+		// meu comentário no git
 	}
 }
 /* $$$ Portugol Studio $$$ 
  * 
- * Esta se��o do arquivo guarda informa��es do Portugol Studio.
- * Voc� pode apag�-la se estiver utilizando outro editor.
+ * Esta seção do arquivo guarda informações do Portugol Studio.
+ * Você pode apagá-la se estiver utilizando outro editor.
  * 
  * @POSICAO-CURSOR = 73; 
  * @PONTOS-DE-PARADA = ;
